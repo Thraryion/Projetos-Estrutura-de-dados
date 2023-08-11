@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1687364801 source:c:\users\leona\onedrive\documentos\projetos\projetofinal\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+
+1687362983 c:\users\leona\onedrive\documentos\projetos\projetofinal\funcoes.h
+
+1687555966 source:c:\users\leona\onedrive\documentos\projetos\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+
